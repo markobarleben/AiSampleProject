@@ -7,8 +7,6 @@ Hello
 * greeting
 
 < Hello world, I mean Human
-* greeting
-
 < Hey nice to see you - great you are here!! Thats fine!! 
 * greeting
 
