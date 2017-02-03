@@ -9,6 +9,9 @@ Hello
 < Hello world, I mean Human
 * greeting
 
+< Hey nice to see you - great you are here!! Thats fine!! 
+* greeting
+
 Goodbye
 * goodbye
 
@@ -19,21 +22,11 @@ Goodbye
 * goodbye
 
 I need a documentation
-* provide/documentation
-
-
-< ok here is your documentation
-* provide/documentation
-
-I need a documentation
-* turing/request_human
+* request_human
 
 < ok ok ok no no no 
-* turing/request_human
+* request_human
 
-You are the best
-* thanks
-
-< No you are the best
+< you welcome
 * thanks
 
