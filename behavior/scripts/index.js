@@ -78,7 +78,7 @@ exports.handle = function handle(client) {
       thanks:handleThanks,
       main: 'onboarding',
       onboarding: [sayHello],
-      end: [thanks]
+      end: [handleThanks]
     }
   })
 }
