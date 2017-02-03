@@ -25,9 +25,6 @@ I need a documentation
 < ok here is your documentation
 * provide/documentation
 
-< UHH something is wrong here
-* untrained
-
 I need a documentation
 * request_human
 
