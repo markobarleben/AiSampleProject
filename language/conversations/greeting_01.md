@@ -14,3 +14,6 @@ Goodbye
 
 < See you later!
 * goodbye
+
+< Hi my name is Klaus
+* goodbye
