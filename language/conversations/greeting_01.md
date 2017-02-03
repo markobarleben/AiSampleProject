@@ -28,3 +28,15 @@ I need a documentation
 < UHH something is wrong here
 * untrained
 
+I need a documentation
+* request_human
+
+< ok ok ok no no no 
+* request_human
+
+You are the best
+* thanks
+
+< No you are the best
+* thanks
+
